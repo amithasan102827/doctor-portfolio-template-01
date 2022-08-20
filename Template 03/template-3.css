@@ -103,7 +103,12 @@ body {
   margin: 0 auto !important;
   background-color: var(--horizontal-line-background-color);
 }
-
+.chamber-details-horizontal-line {
+  height: 0.1rem;
+  width: 75%;
+  margin: 0 auto !important;
+  background-color: var(--horizontal-line-background-color);
+}
 
 /* top-navbar-section */
 .navbar-item {
@@ -162,11 +167,13 @@ body {
 .mobile-text {
   font-size: var(--mobile-text-font-size);
   font-family: var(--mobile-text-font-family);
+  font-weight: 600;
 }
 
 .mobile-num {
   font-size: var(--mobile-number-font-size);
   font-family: var(--mobile-text-font-family);
+  font-weight: 700;
 }
 
 /* Header Banner Section  */
