@@ -340,51 +340,50 @@
   ECTION  MEDIA QUERY*/
   .appointment-navbar {
     margin-top: 57px;
-  }
+}
 
-  .navbar-brand {
+.navbar-brand {
     display: flex;
     justify-content: center;
     align-items: center;
-  }
+}
 
-  .Appointment-Logo {
-    width: 45px;
+.Appointment-Logo {
+    width: 40px;
     color: var(--brand-icon-color);
-  }
+}
 
-  .navbar-brand h1 {
-    font-size: 17px;
+.navbar-brand h1 {
+    font-size: 16px;
     font-family: var(--brand-font-family);
     color: var(--brand-text-color);
-  }
+}
 
-  .appointment-container {
+.appointment-container {
     display: flex;
     justify-content: center;
     align-items: center;
-  }
+}
 
-  .mobile-icon {
-    width: 22px;
+.mobile-icon {
+    width: 20px;
     margin: auto 0;
     color: var(--mobile-icon-color);
-  }
+}
 
-  .mobile-text-container {
+.mobile-text-container {
     line-height: 16px;
-  }
+}
 
-  .mobile-text {
-    font-size: 10px;
+.mobile-text {
+    font-size: 9px;
     font-family: var(--mobile-text-font-family);
-  }
+}
 
-  .mobile-num {
-    font-size: 15px;
+.mobile-num {
+    font-size: 14px;
     font-family: var(--mobile-text-font-family);
-  }
-
+}
 
   /* Header Banner Section  */
 
@@ -541,10 +540,9 @@
     background-color: var(--horizontal-line-background-color);
   }
 
-  /* header-banner-section */
 
 
-
+/* header-banner-section */
   .header-banner {
     background-color: var(--banner-backgroundr);
     padding-top: 30px;
@@ -588,7 +586,8 @@
 
   }
 
-  /* .biography-section */
+
+  /* biography-section */
 
   .biography-container {
     overflow-x: hidden;
@@ -633,8 +632,8 @@
 
 
 
-  /* experience-section */
 
+/* experience-section */
   .experience-img-container img {
     height: 500px;
   }
@@ -669,7 +668,7 @@
 
 
 
-  /* achievement-section */
+/* achievement-section */
   .main-achievement-container {
     background-color: var(--achievement-backgroundr);
     padding-bottom: 0px;

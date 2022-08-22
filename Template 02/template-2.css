@@ -349,12 +349,12 @@
   }
 
   .Appointment-Logo {
-    width: 45px;
+    width: 40px;
     color: var(--brand-icon-color);
   }
 
   .navbar-brand h1 {
-    font-size: 17px;
+    font-size: 16px;
     font-family: var(--brand-font-family);
     color: var(--brand-text-color);
   }
@@ -366,7 +366,7 @@
   }
 
   .mobile-icon {
-    width: 22px;
+    width: 20px;
     margin: auto 0;
     color: var(--mobile-icon-color);
   }
@@ -376,15 +376,14 @@
   }
 
   .mobile-text {
-    font-size: 10px;
+    font-size: 9px;
     font-family: var(--mobile-text-font-family);
   }
 
   .mobile-num {
-    font-size: 15px;
+    font-size: 14px;
     font-family: var(--mobile-text-font-family);
   }
-
 
   /* Header Banner Section  */
 
@@ -541,10 +540,9 @@
     background-color: var(--horizontal-line-background-color);
   }
 
+
+
   /* header-banner-section */
-
-
-
   .header-banner {
     background-color: var(--banner-backgroundr);
     padding-top: 30px;
@@ -588,7 +586,8 @@
 
   }
 
-  /* .biography-section */
+
+  /* biography-section */
 
   .biography-container {
     overflow-x: hidden;
@@ -633,8 +632,8 @@
 
 
 
-  /* experience-section */
 
+  /* experience-section */
   .experience-img-container img {
     height: 500px;
   }
@@ -680,7 +679,7 @@
     transform: rotate(-90deg);
     top: 43%;
     right: 70%;
-    border-bottom: 3px solid #e30613;
+    border-bottom: 3px solid #424042;
     margin-right: 50px;
     font-size: var(--achieve-title-font-size);
     font-family: var(--achieve-font-familiy);
