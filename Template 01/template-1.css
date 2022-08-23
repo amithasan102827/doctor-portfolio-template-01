@@ -92,16 +92,16 @@
 
 
 .horizontal-line {
-  height: 0.2rem;
+  height: 0.4vh;
   width: 15%;
-  margin: 0 auto !important;
+  margin: 0 auto ;
   background-color: var(--horizontal-line-background-color);
 }
 
 .chamber-details-horizontal-line {
-  height: 0.1rem;
+  height: 0.01rem;
   width: 75%;
-  margin: 0 auto !important;
+  margin: 0 auto ;
   background-color: #646363;
 }
 
@@ -329,12 +329,22 @@
 
 @media only screen and (max-width: 768px) {
 
-  .horizontal-line {
-    height: 3px;
-    width: 35%;
-    margin: 0 auto !important;
-    background-color: var(--horizontal-line-background-color);
-  }
+ 
+.horizontal-line {
+  height: 0.4vh;
+  width: 35%;
+  margin: 0 auto ;
+  background-color: var(--horizontal-line-background-color);
+}
+
+.chamber-details-horizontal-line {
+  height: 0.01rem;
+  width: 75%;
+  margin: 0 auto ;
+  background-color: #646363;
+}
+  
+  
 
   /* APPOINTMET-S
   ECTION  MEDIA QUERY*/
@@ -533,13 +543,20 @@
 @media screen and (min-width: 768px) and (max-width: 1024px) {
 
 
-  .horizontal-line {
-    height: 0.2rem;
-    width: 25%;
-    margin: 0 auto !important;
-    background-color: var(--horizontal-line-background-color);
-  }
+ 
+.horizontal-line {
+  height: 0.4vh;
+  width: 20%;
+  margin: 0 auto ;
+  background-color: var(--horizontal-line-background-color);
+}
 
+.chamber-details-horizontal-line {
+  height: 0.01rem;
+  width: 75%;
+  margin: 0 auto ;
+  background-color: #646363;
+}
 
 
 /* header-banner-section */
